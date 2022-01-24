@@ -34,6 +34,10 @@ Create and assign a task in an Agile Board, create a branch, push branch back to
 
 Create and accept a pull request and merge branch to main
 
-### Lab 4: [Build Pipeline](lab05/lab5.md)
+### Lab 5: [Build Pipeline](lab05/lab5.md)
 
 Create a Build pipeline
+
+### Lab 6: [Release Pipeline](lab06/lab6.md)
+
+Create a release pipeline
