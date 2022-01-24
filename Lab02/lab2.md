@@ -1,4 +1,4 @@
-# Lab 1 Create Repo and Clone
+# Lab 2 Create Repo and Clone
 
 In this lab we will create a new repo and clone the repo to our workstation
 
@@ -162,4 +162,4 @@ Take a look in Azure DevOps changes should be visible here
 
 Lab Done
 
-[Create and assign tasks in Agile Board](../lab02/lab2.md)
+[Create and assign tasks in Agile Board](../lab03/lab3.md)

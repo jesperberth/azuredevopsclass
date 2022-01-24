@@ -18,6 +18,16 @@
 
 ## Labs
 
-### Lab 1: [Install Software](lab01/lab1.md)
+### Lab 1: [Access DevOps](lab01/lab1.md)
 
-Install git, Visual Studio Code and Windows Terminal on you local computer
+Logon to Azure DevOps and Share a Public SSH key
+
+### Lab 2: [Create Repo and Clone](lab02/lab2.md)
+
+Create a Repository and clone it to your workstation and push back new code
+
+### Lab 3: [Create and assign tasks in Agile Board](lab03/lab3.md)
+
+Create and assign a task in an Agile Board, create a branch, push branch back to repository
+
+### Lab 4: [Create and accept a Pull Request](lab04/lab4.md)
