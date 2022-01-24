@@ -162,4 +162,4 @@ Take a look in Azure DevOps changes should be visible here
 
 Lab Done
 
-[.....](../lab02/lab2.md)
+[Create and assign tasks in Agile Board](../lab02/lab2.md)

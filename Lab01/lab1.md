@@ -81,4 +81,4 @@ The key from your workstation is now added, you can add aditional keys from othe
 
 Lab Done
 
-[.....](../lab02/lab2.md)
+[Create repo and clone](../lab02/lab2.md)
