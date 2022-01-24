@@ -31,3 +31,9 @@ Create a Repository and clone it to your workstation and push back new code
 Create and assign a task in an Agile Board, create a branch, push branch back to repository
 
 ### Lab 4: [Create and accept a Pull Request](lab04/lab4.md)
+
+Create and accept a pull request and merge branch to main
+
+### Lab 4: [Build Pipeline](lab05/lab5.md)
+
+Create a Build pipeline
