@@ -40,4 +40,4 @@ Create a Build pipeline
 
 ### Lab 6: [Release Pipeline](lab06/lab6.md)
 
-Create a release pipeline 
+Create a release pipeline
