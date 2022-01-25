@@ -105,7 +105,6 @@ In the new folder create a file **index.html**
 And add below to the file, you can modify it to fit your project
 
 ```html
-
 <html>
 <head><title>Website</title></head>
 <body>
@@ -120,7 +119,6 @@ And add below to the file, you can modify it to fit your project
     </p>
 </body>
 </html>
-
 ```
 
 ![Alt text](pics/012_new_index_html.png?raw=true "new index.html")

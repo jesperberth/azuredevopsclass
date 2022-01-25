@@ -57,7 +57,6 @@ Delete all lines and add below
 **IMPORTANT:** Change the variable **imageName** to your name or initials
 
 ```yaml
-
 # Starter pipeline
 # Start with a minimal pipeline that you can customize to build and deploy your code.
 # Add steps that build, run tests, deploy, and more:
@@ -95,7 +94,6 @@ steps:
     command: 'buildAndPush'
     Dockerfile: 'Dockerfile'
     tags: 'latest'
-
 ```
 
 Click on the down arrow on the **Save and run** select **Save**
@@ -124,7 +122,6 @@ We will do this as we learned from the previous labs
 - Complete merge
 
 ```Dockerfile
-
 FROM ubuntu
 ENV DEBIAN_FRONTEND=noninteractive
 RUN apt-get update
@@ -134,7 +131,6 @@ RUN apt-get clean
 COPY Website/index.html /var/www/html/index.html
 EXPOSE 80
 CMD ["apache2ctl","-D","FOREGROUND"]
-
 ```
 
 ![Alt text](pics/003_vscode_dockerfile.png?raw=true "vscode dockerfile")
