@@ -149,3 +149,34 @@ Click **Create Release**
 
 ![Alt text](pics/015_create_release.png?raw=true "create release")
 
+In the Create a new release window
+
+Click the **Deploy** Pipeline so i turns from blue to gray, now it will be a manual run click **Create**
+
+![Alt text](pics/016_gray_create_release.png?raw=true "create release")
+
+Click on **Release-xx**
+
+![Alt text](pics/017_start_release.png?raw=true "start release")
+
+Hover over the **Deploy** Stage and a **Deploy** button appears click **Deploy**
+
+![Alt text](pics/018_Deploy_release.png?raw=true "Deploy release")
+
+Click **Deploy** Again
+
+![Alt text](pics/019_Deploy_release_again.png?raw=true "Deploy release")
+
+The Release Pipeline is now running if you click on **Deploy in progress** you can follow along
+
+![Alt text](pics/020_Deploy_running.png?raw=true "Deploy running")
+
+You can click on the tasks that are failed, its a minor error but still marked as failed
+
+![Alt text](pics/021_Deploy_result.png?raw=true "Deploy result")
+
+The container is running in Azure
+
+![Alt text](pics/022_container.png?raw=true "Container running")
+
+Lab done
