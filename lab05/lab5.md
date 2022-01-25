@@ -115,7 +115,7 @@ We will do this as we learned from the previous labs
 - Create a new Branch **Docker**
 - git pull on your workstation
 - Change branch in VSCode
-- Add a new file call it "Dockerfile"
+- Add a new file call it "Dockerfile" **Its case sensitive - Capital D rest is lower case**
 - Stage
 - Commit
 - Approve merge
