@@ -60,6 +60,11 @@ We will do this as we learned from the previous labs
             memory: 1.5
             ports:
               - 80
+      register: container
+
+    - name: Get container public ip
+      debug:
+        msg: "{{ container.ip_address }}"
 
 ```
 
@@ -136,6 +141,8 @@ The **password** will be given by the teacher
 The **containername** is the one you sat in the Build Pipeline as **imageName**
 
 --extra-vars "password=+7n+CGLFZhrVeB3y0MhdOlHC/wWAINe9 containername=jesbe"
+
+Remove the checkmark in **Fail on STDERR**
 
 Click **Save** en the top right corner
 
